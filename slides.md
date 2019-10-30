@@ -68,3 +68,7 @@
 ---
 
 # Walkthrough: Adding Collaborators and Expectations
+
+---
+
+## Additional Resources
