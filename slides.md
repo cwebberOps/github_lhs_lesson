@@ -67,8 +67,55 @@
 
 ---
 
+## The Heart of Collaboration
+
+* General comments
+* Inline comments
+* Changes Requested
+* 👍🏻
+
+---
+
+## Async Communication
+
+---
+
+## The Power of a Second Set of 👀
+
+---
+
 # Walkthrough: Adding Collaborators and Expectations
 
 ---
 
-## Additional Resources
+## Teamwork
+
+* It is all about enabling others
+* Norms matter
+
+---
+
+# Demo: From Start to Finish a Node App
+
+---
+
+# Additional Resources
+
+---
+
+## GitHub
+
+* https://education.github.com/
+* https://lab.github.com/githubtraining/introduction-to-github
+
+---
+
+## Git
+
+* https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+---
+
+## Javascript and NodeJS
+
+* https://expressjs.com/en/starter/installing.html
