@@ -9,12 +9,7 @@
 ### About Me
 
 * Working in IT/Operations since 2005
-
----
-
-### Expectations
-
-* You are not going to get everything 
+* Use git and GitHub on a daily basis
 
 ---
 
@@ -92,10 +87,11 @@
 
 * It is all about enabling others
 * Norms matter
+* Pairing/Swarming on code
 
 ---
 
-# Demo: From Start to Finish a Node App
+# Demo: From Start to Finish... Editing a Node App
 
 ---
 
