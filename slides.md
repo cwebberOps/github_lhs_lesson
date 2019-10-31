@@ -34,7 +34,7 @@
 
 ---
 
-# Walkthrough: Setting up an account
+# Demo: Creating a new Repo
 
 ---
 
